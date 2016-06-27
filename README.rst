@@ -12,6 +12,7 @@ Install
 Requires Django 1.8+ and Channels.
 
 .. code:: bash
+
   pip install channels-sendmail
 
 
